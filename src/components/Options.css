@@ -1,0 +1,12 @@
+.menuBar{
+    display: flex;
+    justify-content: center;
+}
+
+
+button{
+    background-color: white;
+    border: 0px;
+    font-size: large;
+    margin: 20px;
+}
